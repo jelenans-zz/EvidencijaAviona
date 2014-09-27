@@ -7,7 +7,8 @@ Aircfraft and flights system
 Application for registering aircrafts and their flights.
 
 Application has following functionality:
-• Overview of all aircraft.\n
+• Overview of all aircraft.
+
 • Entering the plane.
 • Changing planes.
 • Deleting the aircraft from the records.
