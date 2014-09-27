@@ -55,7 +55,7 @@ Functionality of adding a flight is accessed from the list of all the planes. Ne
 
 • The date of departure of the flight.
 
-![alt tag](https://raw.githubusercontent.com/jelenans/EvidencijaAviona/master/New%20Picture%20(8).bmp)
-
-
 ![alt tag](https://raw.githubusercontent.com/jelenans/EvidencijaAviona/6f29fc254abab34dbe2c6414bb9d66bab4715ac8/New%20Picture%20(7).bmp)
+
+
+![alt tag](https://raw.githubusercontent.com/jelenans/EvidencijaAviona/master/New%20Picture%20(8).bmp)
