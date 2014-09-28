@@ -3,6 +3,10 @@ EvidencijaAviona
 
 Aircfraft and flights system
 Application for registering aircrafts and their flights.
+
+****
+Using WPF and MVVM
+****
 Application has following functionality:
 
 • Overview of all aircraft.
